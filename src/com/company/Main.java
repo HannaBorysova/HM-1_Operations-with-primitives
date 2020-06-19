@@ -20,7 +20,5 @@ public class Main {
         System.out.println(c1);
         System.out.println(d);
         System.out.println(e);
-
-
     }
 }
